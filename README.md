@@ -1,9 +1,6 @@
 ## Oii! Sou a Júlia Furquim😊
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julia-furquim&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-furquim&layout=compact&langs_count=16&theme=aura"/>
-</div>
+
 
 ## 📚Estou no 4º ano do curso técnico de informática e, até o momento tive contato com as seguintes linguagens:
 
