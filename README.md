@@ -1,8 +1,11 @@
-## Oii! Sou a Júlia Furquim😊
+## Oii! Sou a Júlia Furquim!😚
 
 
 
-## 📚Estou no 4º ano do curso técnico de informática e, até o momento tive contato com as seguintes linguagens:
+### 📚Estou no 4º ano do curso técnico de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 
+### 📊Estou estagiando na área de análise exploratória de dados acadêmicos, também no IFSP.
+
+#### 📌Até o momento tive contato com as seguintes linguagens:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Júlia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
