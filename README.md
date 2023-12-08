@@ -5,10 +5,7 @@ Oii! Sou a Júlia Furquim!😚
 </h1>
 
 <p align="center">
-📚Estou no 4º ano do curso técnico de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 
-</p>
-<p align="center">
-📊Estou estagiando na área de análise exploratória de dados acadêmicos, também no IFSP.
+📚Sou técnica de informática formada pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. 
 </p>
 
 </div>
